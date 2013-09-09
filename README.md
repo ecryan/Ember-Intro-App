@@ -1,0 +1,1 @@
+Adapted the Ember guides intro App from Twitter Bootstrap 2 to Bootstrap 3. Thanks @tomdale for posting a great vid to intro the power of Ember.js.
